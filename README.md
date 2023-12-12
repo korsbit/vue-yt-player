@@ -31,7 +31,7 @@ Obs: 'app_origin' é verdadeiro caso a origem do vídeo seja de dentro do própr
 <yt-player :src="{ 1080: { src: 'assets/videos/elliot1_1080p.webm', app_origin: true }, 240: { src: 'assets/videos/elliot1_240p.webm', app_origin: true } }" width="60rem"/>
 ~~~
 resultado:
-    <img src="https://github.com/korsbit/yt-player/blob/main/screenshots/screen1.png"/>
+    <img src="https://github.com/korsbit/vue-yt-player/blob/main/screenshots/screen1.png"/>
 
 Obs: Para que o efeito cinematográfico funcione corretamente, o player de vídeo deve estar em cima de um elemento de cores escuras, de preferência #0F0F0F.
 
